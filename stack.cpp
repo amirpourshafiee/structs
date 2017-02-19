@@ -45,6 +45,7 @@ void display (void){
 }
 
 //  Test harness for prototypping
+/*
 int main void
 {
     int choice;
@@ -73,3 +74,4 @@ int main void
     }
     return 0;
 }
+*/
